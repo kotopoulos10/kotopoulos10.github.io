@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Motion Strong
 
-You can use the [editor on GitHub](https://github.com/kotopoulos10/kotopoulos10.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+* Designed around Tim Duncan
+* 4 around 1 offense
+* Flows from break into early offense
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Motion Strong](https://octodex.github.com/images/yaktocat.png)[Motion Strong](https://www.youtube.com/watch?v=HKibI6nf1Ew)
 
-### Markdown
+### Setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Ball is reversed
+* Double staggar screen for guy in corner
 
 ```markdown
 Syntax highlighted code block
